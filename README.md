@@ -12,12 +12,7 @@
 
 ---
 
-## 👥 Team — Sigma Codes
 
-| Member | Role |
-| --- | --- |
-
----
 
 ## 📖 About
 
