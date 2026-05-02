@@ -1,0 +1,25 @@
+{
+  "model_version": "2.0.0",
+  "model_type": "hybrid_tfidf_sbert",
+  "sbert_base": "all-MiniLM-L6-v2",
+  "sbert_embedding_dim": 384,
+  "tfidf_max_features": 15000,
+  "tfidf_ngram_range": [
+    1,
+    2
+  ],
+  "training_dataset_size": 800,
+  "training_categories": [
+    "Electronics",
+    "Clothing",
+    "Home Kitchen",
+    "Sports Outdoors",
+    "Grocery",
+    "Furniture",
+    "Beauty",
+    "Books"
+  ],
+  "trained_at": "2026-02-21T14:16:57.368143",
+  "tfidf_weight": 0.35,
+  "sbert_weight": 0.65
+}

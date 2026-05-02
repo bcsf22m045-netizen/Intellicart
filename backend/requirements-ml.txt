@@ -1,0 +1,10 @@
+# Python dependencies for the ML Recommendation Service
+# Install with: pip install -r requirements-ml.txt
+
+flask>=3.0.0
+flask-cors>=4.0.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+numpy>=1.24.0
+torch>=2.0.0
