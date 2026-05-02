@@ -4,7 +4,6 @@
 
 ### *Smart Shopping, Reimagined*
 
-[![Team](https://img.shields.io/badge/Team-Sigma%20Codes-blueviolet?style=for-the-badge)](https://github.com/UzayrSajjad/UTS-Web-Hackathon)
 [![Stack](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)](https://github.com/UzayrSajjad/UTS-Web-Hackathon)
 [![AI](https://img.shields.io/badge/AI-Pollinations%20API-orange?style=for-the-badge)](https://pollinations.ai)
 
