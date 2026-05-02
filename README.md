@@ -1,6 +1,6 @@
 <div align="center">
 
-# �� NOVA — AI-Powered E-Commerce Platform
+# �� Intellicart — AI-Powered E-Commerce Platform
 
 ### *Smart Shopping, Reimagined*
 
@@ -16,13 +16,12 @@
 
 | Member | Role |
 | --- | --- |
-| **Uzair Sajjad** | Full-Stack Developer |
 
 ---
 
 ## 📖 About
 
-**NOVA** is a full-featured, AI-powered e-commerce platform built with the **MERN stack**. What sets NOVA apart is its intelligent **AI Shopping Assistant** — a conversational chatbot that can browse products, manage your cart, negotiate discounts, and even place orders, all through natural language. The platform includes a customer-facing storefront, a dedicated admin panel, and a robust backend API.
+**Intellicart** is a full-featured, AI-powered e-commerce platform built with the **MERN stack**. What sets Intellicart apart is its intelligent **AI Shopping Assistant** — a conversational chatbot that can browse products, manage your cart, negotiate discounts, and even place orders, all through natural language. The platform includes a customer-facing storefront, a dedicated admin panel, and a robust backend API.
 
 ---
 
@@ -91,7 +90,7 @@
 ## 📁 Project Structure
 
 ```
-NOVA/
+Intellicart/
 ├── frontend/          # Customer-facing React app
 │   └── src/
 │       ├── components/
