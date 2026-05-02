@@ -290,6 +290,5 @@ This project is open source and available under the [ISC License](LICENSE).
 
 <div align="center">
 
-**Built with ❤️ by Sigma Codes**
 
 </div>
